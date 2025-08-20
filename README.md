@@ -1,11 +1,11 @@
-# 🎓 Student Results Management System
+# Student Results Management System
 
 A simple PHP & MySQL project for managing student results.  
 Built as part of my **ICT coursework at KCA University** (1.3).  
 
 ---
 
-## 🚀 Features
+##  Features
 ### 👨‍💼 Admin
 - Login to secure dashboard  
 - Add new students  
