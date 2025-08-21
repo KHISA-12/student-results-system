@@ -6,7 +6,7 @@ Built as part of my **ICT coursework at KCA University** (1.3).
 ---
 
 ##  Features
-### 👨‍💼 Admin
+###  Admin
 - Login to secure dashboard  
 - Add new students  
 - View all students  
