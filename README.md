@@ -17,7 +17,7 @@ Built as part of my **ICT coursework at KCA University** (1.3).
 - Enter marks for students  
 - Manage results  
 
-### 👨‍🎓 Student
+### 👨‍🎓 Student 1.
 - Login to secure dashboard  
 - View their own results  
 
