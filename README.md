@@ -18,9 +18,11 @@ Lecturer
 - Enter marks for students  
 - Manage results  
 
-### 👨‍🎓 Student 1.
+###Student 1.
 - Login to secure dashboard  
-- View their own results  
+- View their own results
+- log in and log out
+- student browsing space
 
 ---
 
