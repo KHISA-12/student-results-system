@@ -12,7 +12,8 @@ Built as part of my **ICT coursework at KCA University** (1.3).
 - View all students  
 - Manage courses & lecturers (extension ready)  
 
-### 👨‍🏫 Lecturer
+### p1
+Lecturer
 - Login to secure dashboard  
 - Enter marks for students  
 - Manage results  
