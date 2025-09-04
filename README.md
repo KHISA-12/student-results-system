@@ -12,11 +12,10 @@ Built as part of my **ICT coursework at KCA University** (1.3).
 - View all students  
 - Manage courses & lecturers (extension ready)  
 
-### p1
-Lecturer
+##Lecturer
 - Login to secure dashboard  
 - Enter marks for students  
-- Manage results  
+- Manage results and work
 
 ###Student 1.
 - Login to secure dashboard  
