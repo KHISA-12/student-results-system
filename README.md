@@ -5,7 +5,8 @@ Built as part of my **ICT coursework at KCA University** (1.3).
 
 ---
 
-##  Features
+##  Features 
+upon request from the admin you can be able to veiw the features of the System
 ###  Admin
 - Login to secure dashboard  
 - Add new students  
