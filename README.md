@@ -5,19 +5,19 @@ Built as part of my **ICT coursework at KCA University** (1.3).
 
 ---
 
-##  Features
-###  Admin
+ Features
+Admin
 - Login to secure dashboard  
 - Add new students  
 - View all students  
 - Manage courses & lecturers (extension ready)  
 
-##Lecturer
+Lecturer
 - Login to secure dashboard  
 - Enter marks for students  
 - Manage results and work
 
-###Student 1.
+Student 1.
 - Login to secure dashboard  
 - View their own results
 - log in and log out
@@ -25,7 +25,7 @@ Built as part of my **ICT coursework at KCA University** (1.3).
 
 ---
 
-## 🛠️ Tech Stack
+ Tech Stack
 - **Frontend:** HTML, CSS  
 - **Backend:** PHP (procedural)  
 - **Database:** MySQL  
@@ -33,7 +33,7 @@ Built as part of my **ICT coursework at KCA University** (1.3).
 
 ---
 
-## ⚙️ Installation (Localhost)
+Installation (Localhost)
 1. Clone the repository:
    ```bash
    git clone https://github.com/KHISA-12/student-results-system.git
