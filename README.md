@@ -1,39 +1,101 @@
-# Student Results Management System
+Student Results Management System
 
-A simple PHP & MySQL project for managing student results.  
-Built as part of my **ICT coursework at KCA University** (1.3).  
+A simple PHP & MySQL project for managing student results.
+Developed as part of my ICT coursework (1.3) at KCA University.
 
----
+🚀 Features
+🔑 Admin
 
- Features
-Admin
-- Login to secure dashboard  
-- Add new students  
-- View all students  
-- Manage courses & lecturers (extension ready)  
+Secure login to dashboard
 
-Lecturer
-- Login to secure dashboard  
-- Enter marks for students  
-- Manage results and work
+Add & manage student records
 
-Student 1.
-- Login to secure dashboard  
-- View their own results
-- log in and log out
-- student browsing space
+View all students
 
----
+Manage courses & lecturers (future extension ready)
 
- Tech Stack
-- **Frontend:** HTML, CSS  
-- **Backend:** PHP (procedural)  
-- **Database:** MySQL  
-- **Server:** XAMPP (Apache)  
+👨‍🏫 Lecturer
 
----
+Secure login to dashboard
 
-Installation (Localhost)
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/KHISA-12/student-results-system.git
+Enter marks for students
+
+Manage, edit & update results
+
+🎓 Student
+
+Secure login to dashboard
+
+View personal results
+
+Login & logout functionality
+
+Student browsing space (profile & results access)
+
+🛠️ Tech Stack
+
+Frontend: HTML, CSS
+
+Backend: PHP (procedural)
+
+Database: MySQL
+
+Server Environment: XAMPP (Apache)
+
+⚙️ Installation (Localhost)
+
+Clone the repository:
+
+git clone https://github.com/KHISA-12/student-results-management.git
+
+
+Move the project folder into your XAMPP htdocs directory:
+
+C:\xampp\htdocs\student-results-management
+
+
+Import the database:
+
+Open phpMyAdmin
+
+Create a new database (e.g., student_results)
+
+Import the SQL file provided in the project (database/student_results.sql)
+
+Update the database connection file:
+
+Go to config/db.php
+
+Edit database credentials if needed:
+
+$host = "localhost";
+$user = "root";
+$pass = "";
+$dbname = "student_results";
+
+
+Run the project in your browser:
+
+http://localhost/student-results-management
+
+🔒 Default Login Credentials
+
+Admin:
+
+Username: admin
+
+Password: admin123
+
+Lecturer & Student:
+
+Create accounts via Admin dashboard
+
+📌 Notes
+
+Built for learning purposes and can be extended with features like:
+
+Online result export (PDF/CSV)
+
+Role-based access control
+
+Responsive design for mobile
