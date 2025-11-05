@@ -1,52 +1,52 @@
-Student Results Management System
+Student Results Management System.
 
 A simple PHP & MySQL project for managing student results.
 Developed as part of my ICT coursework (1.3) at KCA University.
 
-🚀 Features
-🔑 Admin
+🚀 Features.
+🔑 Admin.
 
-Secure login to dashboard
+Secure login to dashboard.
 
-Add & manage student records
+Add & manage student records.
 
-View all students
+View all students.
 
-Manage courses & lecturers (future extension ready)
+Manage courses & lecturers (future extension ready).
 
 👨‍🏫 Lecturer
+.
+Secure login to dashboard.
 
-Secure login to dashboard
+Enter marks for students.
 
-Enter marks for students
-
-Manage, edit & update results
+Manage, edit & update results.
 
 🎓 Student
 
-Secure login to dashboard
+Secure login to dashboard.
 
-View personal results
+View personal results.
 
-Login & logout functionality
+Login & logout functionality.
 
-Student browsing space (profile & results access)
+Student browsing space (profile & results access).
 
 🛠️ Tech Stack
 
 Frontend: HTML, CSS
 
-Backend: PHP (procedural)
+Backend: PHP (procedural).
 
-Database: MySQL
+Database: MySQL.
 
 Server Environment: XAMPP (Apache)
 
 ⚙️ Installation (Localhost)
 
-Clone the repository:
+Clone the repository:.
 
-git clone https://github.com/KHISA-12/student-results-management.git
+git clone https://github.com/KHISA-12/student-results-management.git.
 
 
 Move the project folder into your XAMPP htdocs directory:
